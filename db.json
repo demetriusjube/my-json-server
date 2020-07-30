@@ -1,0 +1,132 @@
+{
+	"impactoOrcamentario": {
+		"exercicios": [
+			{
+				"numero": 1,
+				"ano": 2019,
+				"valorGrupoDespesa": {
+					"custeioGND3": 549725.22,
+					"investimentoGND4": 7975341.00,
+					"impactoExercicio": 8525066.22
+				}
+			},
+			{
+				"numero": 2,
+				"ano": 2020,
+				"valorGrupoDespesa": {
+					"custeioGND3": 303286.80,
+					"investimentoGND4": 0,
+					"impactoExercicio": 303286.80
+				}
+			},
+			{
+				"numero": 3,
+				"ano": 2021,
+				"valorGrupoDespesa": {
+					"custeioGND3": 303286.80,
+					"investimentoGND4": 0,
+					"impactoExercicio": 303286.80
+				}
+			},
+			{
+				"numero": 4,
+				"ano": 2022,
+				"valorGrupoDespesa": {
+					"custeioGND3": 303286.80,
+					"investimentoGND4": 0,
+					"impactoExercicio": 303286.80
+				}
+			},
+			{
+				"numero": 5,
+				"ano": 2023,
+				"valorGrupoDespesa": {
+					"custeioGND3": 303286.80,
+					"investimentoGND4": 0,
+					"impactoExercicio": 303286.80
+				}
+			},
+			{
+				"numero": 6,
+				"ano": 2024,
+				"valorGrupoDespesa": {
+					"custeioGND3": 278012.90,
+					"investimentoGND4": 0,
+					"impactoExercicio": 278012.90
+				}
+			}
+		],
+		"total":{
+				"valorGrupoDespesa": {
+					"custeioGND3": 2040885.32,
+					"investimentoGND4": 7975341,
+					"impactoExercicio": 10016226.32
+				}
+		}
+	},
+	"previsaoOrcamentariaEstimada": {
+		"exercicios": [
+			{
+				"numero": 1,
+				"ano": 2019,
+				"valorGrupoDespesa": {
+					"custeioGND3": 549725.22,
+					"investimentoGND4": 7975341.00,
+					"impactoExercicio": 8525066.22
+				}
+			},
+			{
+				"numero": 2,
+				"ano": 2020,
+				"valorGrupoDespesa": {
+					"custeioGND3": 303286.80,
+					"investimentoGND4": 0,
+					"impactoExercicio": 303286.80
+				}
+			},
+			{
+				"numero": 3,
+				"ano": 2021,
+				"valorGrupoDespesa": {
+					"custeioGND3": 303286.80,
+					"investimentoGND4": 0,
+					"impactoExercicio": 303286.80
+				}
+			},
+			{
+				"numero": 4,
+				"ano": 2022,
+				"valorGrupoDespesa": {
+					"custeioGND3": 303286.80,
+					"investimentoGND4": 0,
+					"impactoExercicio": 303286.80
+				}
+			},
+			{
+				"numero": 5,
+				"ano": 2023,
+				"valorGrupoDespesa": {
+					"custeioGND3": 303286.80,
+					"investimentoGND4": 0,
+					"impactoExercicio": 303286.80
+				}
+			},
+			{
+				"numero": 6,
+				"ano": 2024,
+				"valorGrupoDespesa": {
+					"custeioGND3": 278012.90,
+					"investimentoGND4": 0,
+					"impactoExercicio": 278012.90
+				}
+			}
+		],
+		"total":{
+				"valorGrupoDespesa": {
+					"custeioGND3": 2040885.32,
+					"investimentoGND4": 7975341,
+					"impactoExercicio": 10016226.32
+				}
+		}
+	}
+}
